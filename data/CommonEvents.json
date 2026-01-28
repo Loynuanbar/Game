@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[20,20,1,0,1]},{"code":111,"indent":0,"parameters":[0,2,0]},{"code":126,"indent":1,"parameters":[31,1,0,999]},{"code":126,"indent":1,"parameters":[32,1,0,1]},{"code":126,"indent":1,"parameters":[39,1,0,99]},{"code":126,"indent":1,"parameters":[40,1,0,99]},{"code":122,"indent":1,"parameters":[5,5,0,0,0]},{"code":126,"indent":1,"parameters":[33,1,0,1]},{"code":201,"indent":1,"parameters":[1,15,16,17,0,0]},{"code":101,"indent":1,"parameters":["",0,0,2,""]},{"code":401,"indent":1,"parameters":["You have died \\v[20] times."]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":201,"indent":1,"parameters":[0,1,4,4,0,0]},{"code":126,"indent":1,"parameters":[40,1,0,99]},{"code":101,"indent":1,"parameters":["",0,0,2,""]},{"code":401,"indent":1,"parameters":["You have died \\v[20] times."]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Death Count","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":212,"indent":0,"parameters":[0,1,false]},{"code":122,"indent":0,"parameters":[5,5,1,0,1]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"name":"Soul","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
